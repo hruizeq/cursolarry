@@ -1,0 +1,3 @@
+#Libro 6
+
+Este es el texto **friki** del libro 6
