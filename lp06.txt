@@ -1,3 +1,6 @@
-#Libro 6
+#Libro 6 (modificacion)
 
 Este es el texto **friki** del libro 6
+
+termino el resumen
+Final
