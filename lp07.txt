@@ -1,3 +1,6 @@
 #libro 7
-
+añado segunda linea del resumen libro7
+esta es la linea añadida en el otro repositorio
 linea generada en el repositrorio LarryPlotter
+
+última línea
